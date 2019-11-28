@@ -1,0 +1,13 @@
+/* .order[data-order-state="new"]{
+    color: green;
+}
+.order[data-order-state="pending"]{
+    color: blue;
+}
+.order[data-order-state="canseled"]{
+    color: red;
+} */
+
+.red{
+    color: red;
+}
